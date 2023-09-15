@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main() {
   final somaCalculado = somaInteiros(10, 20);
   print('A soma de dois inteiros é: $somaCalculado');
